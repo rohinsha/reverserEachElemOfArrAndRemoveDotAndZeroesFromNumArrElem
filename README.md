@@ -1,0 +1,2 @@
+# reverserEachElemOfArrAndRemoveDotAndZeroesFromNumArrElem
+Created with CodeSandbox
